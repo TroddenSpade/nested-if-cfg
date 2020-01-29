@@ -1,0 +1,20 @@
+foo1;
+foo2;
+if(a==2){
+    d=4;
+    if(true){
+        bar2;
+        
+    }else if(false){
+        bar1;
+        if(dad){
+
+        }
+    }else if(true){
+
+    }
+
+}else{
+    quuax;
+}
+yax;
